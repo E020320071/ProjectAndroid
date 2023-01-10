@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Challenge Lifecycle</string>
+    <string name="item_list">Daftar Belanja</string>
+    <string name="add_item">Add Item</string>
+    <string name="choose_an_item">Pilih Item</string>
+    <string name="apel">Apel</string>
+    <string name="nasi">Nasi</string>
+    <string name="keju">Keju</string>
+    <string name="roti">Roti</string>
+    <string name="margarin">Margarin</string>
+    <string name="gula">Gula</string>
+    <string name="sosis">Sosis</string>
+    <string name="tepung">Tepung</string>
+    <string name="susu_bubuk">Susu Bubuk</string>
+    <string name="kentang">Kentang</string>
+</resources>

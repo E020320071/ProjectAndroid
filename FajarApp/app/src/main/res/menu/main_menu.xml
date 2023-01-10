@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/action_open_input_control"
+        android:title="Open Input Control" />
+    <item
+        android:id="@+id/action_open_activity_listview"
+        android:title="Open Activity Listview" />
+    <item
+        android:id="@+id/action_open_activity_recycleview"
+        android:title="Open Activity RecyclerView" />
+    <item
+        android:id="@+id/action_quit"
+        android:title="Quit" />
+</menu>
